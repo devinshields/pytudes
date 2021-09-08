@@ -1,0 +1,9 @@
+name: norvig
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - scikit-learn

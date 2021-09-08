@@ -1,5 +1,10 @@
 
 
+
+### [source repo](https://github.com/norvig/pytudes)
+
+
+
 <div align="right" style="text-align:right"><i>Peter Norvig
 <br><a href="https://github.com/norvig/pytudes/blob/main/LICENSE">MIT License</a><br>2015-2021</i></div>
 
